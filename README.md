@@ -1,4 +1,4 @@
-# Modified Version Of [Media Search bot](https://github.com/MRK-YT/MT-Media-Search-bot)
+# Modified Version Of [Media Search bot](https://github.com/Filmspoters/MT-Media-Search-Bot)
 
 </a>
 </p>
